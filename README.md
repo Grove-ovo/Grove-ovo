@@ -18,7 +18,9 @@ with the agent workflow that loses the most context today.
 
 **Proof before intake:**
 
+- [Commercial services](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/README.md)
 - [Buyer deal room](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/buyer-deal-room.md)
+- [Outcomes and acceptance criteria](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/outcomes-and-acceptance.md)
 - [Buyer proof pack](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/proof-pack.md)
 - [Sample sprint report](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/sample-memory-sprint-report.md)
 - [Public memory teardown examples](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/public-memory-teardowns.md)
