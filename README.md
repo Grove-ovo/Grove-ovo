@@ -28,6 +28,7 @@ and [ROI calculator](https://raw.githack.com/Grove-ovo/opensupport-agentops/70b1
 - [CX AI Agent Reliability Sprint](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-agent-reliability-sprint.md)
 - [CX AI buyer packet](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-buyer-packet.md)
 - [Sample CX AI reliability report](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/sample-cx-ai-reliability-report.md)
+- [Sample CX AI diagnostic teardown](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/sample-cx-ai-diagnostic-teardown.md)
 - [CX AI replay case catalog](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-replay-case-catalog.md)
 - [CX AI scorecard template](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-scorecard-template.md)
 - [Buyer deal room](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/buyer-deal-room.md)
