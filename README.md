@@ -8,6 +8,9 @@ tests and acceptance evidence.
 
 **Fixed-fee sprint:** USD 18,000 for one selected workflow.
 
+**Diagnostic fallback:** USD 3,000 for one workflow map, top five failure
+modes, five replay-test specifications, and a full-sprint recommendation.
+
 **12 business days:** workflow map, policy/PII/action threat model, 10-14
 replay tests, scorecard, and a 48h / 2w / 6w implementation path. Prototype
 fixture included when access is available and the change is bounded.
@@ -16,6 +19,9 @@ fixture included when access is available and the change is bounded.
 [`opensupport-agentops`](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=cx-ai-agent-reliability-sprint.yml)
 with the workflow and highest-risk failure mode, or email
 `chinesegrove@gmail.com`.
+
+Diagnostic intake:
+[`USD 3,000 CX AI Diagnostic Teardown`](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=cx-ai-diagnostic-teardown.yml).
 
 **Rendered offer page:** [CX AI Agent Reliability Sprint](https://raw.githack.com/Grove-ovo/opensupport-agentops/70b17c6c39a8d2581c89d22fa45b44be6edac429/index.html)
 and [ROI calculator](https://raw.githack.com/Grove-ovo/opensupport-agentops/70b17c6c39a8d2581c89d22fa45b44be6edac429/roi.html).
