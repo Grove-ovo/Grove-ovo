@@ -14,7 +14,8 @@ repo access is available and the change is bounded.
 
 **Contact:** open a GitHub issue in
 [`opensupport-agentops`](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=agent-memory-reliability-sprint.yml)
-with the agent workflow that loses the most context today.
+with the agent workflow that loses the most context today, or email
+`sentinelgrove@163.com`.
 
 **Proof before intake:**
 
