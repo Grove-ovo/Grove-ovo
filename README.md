@@ -1,4 +1,4 @@
-[![Agent Memory Reliability Sprint](https://img.shields.io/badge/Agent%20Memory%20Reliability%20Sprint-USD%2012k-0B1220?style=for-the-badge)](https://github.com/Grove-ovo/opensupport-agentops/issues/new)
+[![Agent Memory Reliability Sprint](https://img.shields.io/badge/Agent%20Memory%20Reliability%20Sprint-USD%2012k-0B1220?style=for-the-badge)](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=agent-memory-reliability-sprint.yml)
 
 ### Agent Memory Reliability Sprint
 
@@ -13,7 +13,7 @@ scorecard, and a concrete implementation path. Prototype patch included when
 repo access is available and the change is bounded.
 
 **Contact:** open a GitHub issue in
-[`opensupport-agentops`](https://github.com/Grove-ovo/opensupport-agentops/issues/new)
+[`opensupport-agentops`](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=agent-memory-reliability-sprint.yml)
 with the agent workflow that loses the most context today.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Grove-ovo&column=7)](https://github.com/Grove-ovo)
