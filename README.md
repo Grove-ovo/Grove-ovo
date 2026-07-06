@@ -21,6 +21,7 @@ with the workflow and highest-risk failure mode, or email
 
 - [Commercial services](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/README.md)
 - [CX AI Agent Reliability Sprint](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-agent-reliability-sprint.md)
+- [CX AI buyer packet](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-buyer-packet.md)
 - [Buyer deal room](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/buyer-deal-room.md)
 - [Outcomes and acceptance criteria](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/outcomes-and-acceptance.md)
 - [First 48 hours after yes](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/first-48-hours.md)
