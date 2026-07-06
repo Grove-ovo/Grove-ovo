@@ -17,13 +17,13 @@ fixture included when access is available and the change is bounded.
 with the workflow and highest-risk failure mode, or email
 `chinesegrove@gmail.com`.
 
-**Rendered offer page:** [CX AI Agent Reliability Sprint](https://raw.githack.com/Grove-ovo/opensupport-agentops/gh-pages/index.html)
-and [ROI calculator](https://raw.githack.com/Grove-ovo/opensupport-agentops/gh-pages/roi.html).
+**Rendered offer page:** [CX AI Agent Reliability Sprint](https://raw.githack.com/Grove-ovo/opensupport-agentops/3c6ab09f3d8d91b20cb1966da483ccf0a7773890/index.html)
+and [ROI calculator](https://raw.githack.com/Grove-ovo/opensupport-agentops/3c6ab09f3d8d91b20cb1966da483ccf0a7773890/roi.html).
 
 **Proof before intake:**
 
-- [Rendered CX offer page](https://raw.githack.com/Grove-ovo/opensupport-agentops/gh-pages/index.html)
-- [ROI calculator](https://raw.githack.com/Grove-ovo/opensupport-agentops/gh-pages/roi.html)
+- [Rendered CX offer page](https://raw.githack.com/Grove-ovo/opensupport-agentops/3c6ab09f3d8d91b20cb1966da483ccf0a7773890/index.html)
+- [ROI calculator](https://raw.githack.com/Grove-ovo/opensupport-agentops/3c6ab09f3d8d91b20cb1966da483ccf0a7773890/roi.html)
 - [Commercial services](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/README.md)
 - [CX AI Agent Reliability Sprint](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-agent-reliability-sprint.md)
 - [CX AI buyer packet](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-buyer-packet.md)
