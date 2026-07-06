@@ -1,25 +1,26 @@
-[![Agent Memory Reliability Sprint](https://img.shields.io/badge/Agent%20Memory%20Reliability%20Sprint-USD%2012k-0B1220?style=for-the-badge)](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=agent-memory-reliability-sprint.yml)
+[![CX AI Agent Reliability Sprint](https://img.shields.io/badge/CX%20AI%20Agent%20Reliability%20Sprint-USD%2018k-0B1220?style=for-the-badge)](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=cx-ai-agent-reliability-sprint.yml)
 
-### Agent Memory Reliability Sprint
+### CX AI Agent Reliability Sprint
 
-I help teams shipping AI agents make memory reliable enough for real workflows:
-permission-scoped recall, stale-decision protection, secret exclusion,
-provenance, and replay tests.
+I help teams shipping support AI agents, eval platforms, observability systems,
+guardrails, and agent-security products turn one risky workflow into replay
+tests and acceptance evidence.
 
-**Fixed-fee sprint:** USD 12,000 for one production-relevant agent workflow.
+**Fixed-fee sprint:** USD 18,000 for one selected workflow.
 
-**10 business days:** memory taxonomy, threat model, 8-12 replay tests,
-scorecard, and a concrete implementation path. Prototype patch included when
-repo access is available and the change is bounded.
+**12 business days:** workflow map, policy/PII/action threat model, 10-14
+replay tests, scorecard, and a 48h / 2w / 6w implementation path. Prototype
+fixture included when access is available and the change is bounded.
 
 **Contact:** open a GitHub issue in
-[`opensupport-agentops`](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=agent-memory-reliability-sprint.yml)
-with the agent workflow that loses the most context today, or email
+[`opensupport-agentops`](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=cx-ai-agent-reliability-sprint.yml)
+with the workflow and highest-risk failure mode, or email
 `chinesegrove@gmail.com`.
 
 **Proof before intake:**
 
 - [Commercial services](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/README.md)
+- [CX AI Agent Reliability Sprint](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/cx-ai-agent-reliability-sprint.md)
 - [Buyer deal room](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/buyer-deal-room.md)
 - [Outcomes and acceptance criteria](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/outcomes-and-acceptance.md)
 - [First 48 hours after yes](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/first-48-hours.md)
@@ -28,6 +29,8 @@ with the agent workflow that loses the most context today, or email
 - [Sample sprint report](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/sample-memory-sprint-report.md)
 - [Public memory teardown examples](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/public-memory-teardowns.md)
 - [Buyer due diligence](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/buyer-due-diligence.md)
+
+Secondary offer: [Agent Memory Reliability Sprint, USD 12,000](https://github.com/Grove-ovo/opensupport-agentops/issues/new?template=agent-memory-reliability-sprint.yml).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Grove-ovo&column=7)](https://github.com/Grove-ovo)
 
