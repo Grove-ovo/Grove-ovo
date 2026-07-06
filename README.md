@@ -18,6 +18,7 @@ with the agent workflow that loses the most context today.
 
 **Proof before intake:**
 
+- [Buyer deal room](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/buyer-deal-room.md)
 - [Buyer proof pack](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/proof-pack.md)
 - [Sample sprint report](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/sample-memory-sprint-report.md)
 - [Buyer due diligence](https://github.com/Grove-ovo/opensupport-agentops/blob/main/docs/services/buyer-due-diligence.md)
